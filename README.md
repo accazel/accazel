@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Pivot Tables & Dashboard (Excel)</b>
   - [Excel: Bicycle Sales Dashboard](https://github.com/joshmadakor1/Algorithms-Practice)
  
 <h2>📄 Certifications:</h2>
