@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 - <b>Pivot Tables & Dashboard (Excel)</b>
   - [Excel: Bicycle Sales Dashboard](https://github.com/accazel/BicycleSalesDashboard/)
+- <b>Data Exploration (SQL)</b>
+  - [SQL: COVID 19 Data Exploration](https://github.com/accazel/PortfolioProjects/blob/main/COVID.sql)
  
 <h2>📄 Certifications:</h2>
 
