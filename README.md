@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1>Hi, I'm CJ! <br/><a href="https://github.com/accazel"></a> <a href="https://www.linkedin.com/in/cj-cazel/"></a></h1>
 
-<h2>👨‍💻 Data Analysis Project(s):</h2>
+<h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Pivot Tables & Dashboard (Excel)</b>
   - [Excel: Bicycle Sales Dashboard](https://github.com/accazel/BicycleSalesDashboard/)
