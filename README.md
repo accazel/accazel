@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 
 - <b>Pivot Tables & Dashboard (Excel)</b>
   - [Excel: Bicycle Sales Dashboard](https://github.com/accazel/BicycleSalesDashboard/)
-- <b>Data Exploration (SQL)</b>
+- <b>Data Exploration & Visualization (SQL/Tableau)</b>
   - [SQL: COVID 19 Data Exploration](https://github.com/accazel/PortfolioProjects/blob/main/COVID.sql)
   - [Tableau: COVID 19 Dashboard](https://public.tableau.com/views/COVID-19Dashboard_16965503734720/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+ - <b>Tableau Dashboard</b>
+    - [Tableau: Airbnb Dashboard](https://public.tableau.com/views/AirbnbProject-TokyoJapan/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
  
 <h2>📄 Certifications:</h2>
 
